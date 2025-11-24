@@ -1,5 +1,6 @@
 torch
 numba
+torchdiffeq
 numpy
 pandas
 scipy
