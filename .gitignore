@@ -1,3 +1,6 @@
+# Ignore unofficial images from results
+results/figures/unofficial/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
